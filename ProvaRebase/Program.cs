@@ -11,6 +11,7 @@ namespace ProvaRebase
         static void Main(string[] args)
         {
             // primo commit
+            // secondo commit
         }
     }
 }
